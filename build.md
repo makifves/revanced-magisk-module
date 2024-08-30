@@ -1,13 +1,13 @@
-Music (arm64-v8a): 7.03.52  
 Music (arm-v7a): 7.03.52  
+Music (arm64-v8a): 7.03.52  
 Music-Extended (arm64-v8a): 7.13.52  
-Music-Extended (arm-v7a): 7.13.52  
-Twitch: 16.9.1  
-TikTok: 32.5.3  
-Twitter: 10.54.1-release.0  
-Reddit-Extended: 2024.17.0  
 YouTube: 19.16.39  
 YouTube-Extended: 19.16.39  
+Music-Extended (arm-v7a): 7.13.52  
+Twitter: 10.56.0-release.0  
+Reddit-Extended: 2024.17.0  
+Twitch: 16.9.1  
+TikTok: 32.5.3  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
