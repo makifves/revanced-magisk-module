@@ -1,3 +1,5 @@
+GooglePhotos (arm64-v8a): 7.10.0.701775512  
+GooglePhotos (arm-v7a): 7.10.0.701775512  
 Music (arm64-v8a): 7.29.51  
 Music (arm-v7a): 7.29.51  
 Twitch: 16.9.1  
