@@ -1,6 +1,6 @@
 {
-  "version": "v7.10.0.703144258 (4)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/makifves/revanced-magisk-module/releases/download/4/googlephotos-revanced-magisk-v7.10.0.703144258-arm-v7a.zip",
+  "version": "v7.10.0.703144258 (5)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/makifves/revanced-magisk-module/releases/download/5/googlephotos-revanced-magisk-v7.10.0.703144258-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/makifves/revanced-magisk-module/update/build.md"
 }
